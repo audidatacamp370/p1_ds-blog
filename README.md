@@ -1,11 +1,11 @@
 # Udacity - Data Scientist Nanodegree Program
 ## Project - Writing a Data Scientist Blog Post
 
-[Installations](#inst)
-[Project Motivation](#promot)
-[File Description](#filedesc)
-[Results](#results)
-[Licensing, Authors and Acknowledgements](#license)
+- [Installations](#inst)
+- [Project Motivation](#promot)
+- [File Description](#filedesc)
+- [Results](#results)
+- [Licensing, Authors and Acknowledgements](#license)
 
 <a id='inst'></a>
 ## Installations
