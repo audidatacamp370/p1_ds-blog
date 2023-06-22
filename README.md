@@ -27,7 +27,7 @@ The main focus of this Project is on the effects of remote working conditions.
 ### Questions
 - In which Countries is working remotely more common?
 - Which company size supports remote work the most/ at least?
-- Are programmers who work remotly more satisfied with their jobs?
+- Are programmers who work remotely more satisfied with their jobs?
 - Do programmers who work remotly earn less than programmers who are mainly working in their office?
 
 <a id='filedesc'></a>
@@ -38,7 +38,7 @@ The main focus of this Project is on the effects of remote working conditions.
 
 <a id='results'></a>
 ## Results
-- working remotely is mainly spread in contries like Indonesia, Pakistan and Iran, while it is not very common in contries from western europe 
+- working remotely is mainly spread in contries like Indonesia, Pakistan and Iran, while it is not very common in countries from western europe 
 - the smaller the companies the higher is the rate of Employees who mainly work remotely
 - Employees who work remotely most of their time are more satisfied and have a much higher salary than office workers
 
