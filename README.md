@@ -33,11 +33,15 @@ The main focus of this Project is on the effects of remote working conditions.
 <a id='filedesc'></a>
 ## File Description
 - **data_scientist_blog_post.ipynb** - This Repository notebook shows analysis code of the questions above
-- **/data/survey_results_public_2017.csv**
-- **/data/survey_results_schema_2017.csv**
+- **/data/survey_results_public_2017.csv** - CSV file with main survey results, one respondent per row and one column per answer
+- **/data/survey_results_schema_2017.csv** - CSV file with survey schema, i.e., the questions that correspond to each column name
 
 <a id='results'></a>
 ## Results
+- working remotely is mainly spread in contries like Indonesia, Pakistan and Iran, while it is not very common in contries from western europe 
+- the smaller the companies the higher is the rate of Employees who mainly work remotely
+- Employees who work remotely most of their time are more satisfied and ahve a much higher salary than office workers.
+
 
 <a id='license'></a>
 ## Licensing, Authors and Acknowledgements
