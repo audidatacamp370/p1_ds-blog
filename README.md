@@ -46,4 +46,4 @@ The main focus of this Project is on the effects of remote working conditions.
 <a id='license'></a>
 ## Licensing, Authors and Acknowledgements
 
-Licensing and descriptions for Stackoverflow Annual Developer Survey data can be found at (https://insights.stackoverflow.com/survey)
+Licensing and descriptions for Stackoverflow Annual Developer Survey data can be found at https://insights.stackoverflow.com/survey
