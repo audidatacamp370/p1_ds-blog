@@ -40,8 +40,10 @@ The main focus of this Project is on the effects of remote working conditions.
 ## Results
 - working remotely is mainly spread in contries like Indonesia, Pakistan and Iran, while it is not very common in contries from western europe 
 - the smaller the companies the higher is the rate of Employees who mainly work remotely
-- Employees who work remotely most of their time are more satisfied and ahve a much higher salary than office workers.
+- Employees who work remotely most of their time are more satisfied and have a much higher salary than office workers
 
 
 <a id='license'></a>
 ## Licensing, Authors and Acknowledgements
+
+Licensing and descriptions for Stackoverflow Annual Developer Survey data can be found at (https://insights.stackoverflow.com/survey)
